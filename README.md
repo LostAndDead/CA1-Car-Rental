@@ -1,7 +1,7 @@
 # PLEASE DO NOT COPY FOR YOUR OWN ASIGNMENT
 
 ## CA1-Car-Rental
-Source code for my college 1st Unit 4 assignment
+Source code for my 1st Unit 4 college assignment
 
 ## Why i have made this open source
 
