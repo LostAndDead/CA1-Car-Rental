@@ -1,5 +1,12 @@
 ﻿Public Class Form1
 
+    ' I have decided to publish this to github for a few reasons.
+    ' 1. So i can easily keep versions between home and college.
+    ' 2. So other people can see my techniques and how i chose to do things.
+    ' 3. Becuase i want to expand my git hub portfolio
+    '
+    ' PLEASE DO NOT COPY FOR YOUR OWN ASIGNMENT
+
     Dim panel As Integer
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'Define the starting pannel for the program when it loads
